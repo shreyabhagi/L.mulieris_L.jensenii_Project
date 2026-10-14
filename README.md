@@ -1,3 +1,12 @@
+> **My contributions (Shreya Bhagi)**
+> This is my fork of a four-person Putonti Lab team project at Loyola University Chicago (Spring 2025). My work included:
+> - Writing my own version of the Sylph pipeline script with timestamped logging, tool checks, per-sample error handling, intermediate-file cleanup and command-line arguments (visible in this repository's commit history; it was later consolidated into the team's final script)
+> - Writing the reference-genome section of this README
+>
+> The team's final pipeline screens female urinary metagenomes from NCBI SRA for *L. mulieris* and *L. jensenii* using Sylph ANI profiling.
+
+---
+
 **Are _Lactobacillus mulieris_ and _Lactobacillus jensenii_ present in the gastrointestinal tract?**
 
 **Background:**
