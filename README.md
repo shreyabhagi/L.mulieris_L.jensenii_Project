@@ -3,7 +3,7 @@
 > - Writing my own version of the Sylph pipeline script with timestamped logging, tool checks, per-sample error handling, intermediate-file cleanup and command-line arguments (visible in this repository's commit history; it was later consolidated into the team's final script)
 > - Writing the reference-genome section of this README
 >
-> The team's final pipeline screens female urinary metagenomes from NCBI SRA for *L. mulieris* and *L. jensenii* using Sylph ANI profiling.
+> The team's final pipeline screens female gut metagenomes from NCBI SRA for two urogenital species, *L. mulieris* and *L. jensenii*, using Sylph ANI profiling.
 
 ---
 
